@@ -1,3 +1,5 @@
 # behAI
 
-## coming soon ...
+## One System, Unlimited Applications
+
+### coming soon ...
